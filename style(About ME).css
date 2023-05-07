@@ -1,0 +1,785 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  min-height: 100vh;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #30D096;
+}
+.page-aboutme {
+  width: 100%;
+  height: 3383px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(47, 208, 150, 1);
+}
+.page-group32button {
+  top: 88px;
+  left: 105px;
+  width: 93.93572998046875px;
+  height: 79.93572998046875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.page-polygon1 {
+  left: 10px;
+  width: 78px;
+  bottom: -8px;
+  height: 78px;
+  position: absolute;
+}
+.page-polygon2 {
+  right: -16px;
+  width: 78px;
+  bottom: -8px;
+  height: 78px;
+  position: absolute;
+}
+.page-text {
+  color: rgba(0, 0, 0, 1);
+  right: 50px;
+  width: 728px;
+  bottom: 19px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Gotu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text11 {
+  top: 38px;
+  left: 228px;
+  color: rgba(71, 19, 95, 1);
+  width: 1096px;
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gotu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.page-image20191024411 {
+  top: 280px;
+  left: 52px;
+  width: 426px;
+  height: 568px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text13 {
+  top: 737px;
+  left: 283px;
+  color: rgba(225, 227, 120, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 158px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Mr Dafoe;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-rectangle32 {
+  top: 316px;
+  left: 516px;
+  width: 880px;
+  height: 495px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 5px;
+}
+.page-rectangle33 {
+  top: 1063px;
+  left: 36px;
+  width: 881px;
+  height: 642px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 5px;
+}
+.page-rectangle34 {
+  top: 2539px;
+  left: 123px;
+  width: 1193px;
+  height: 568px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 5px;
+}
+.page-text15 {
+  top: 345px;
+  left: 625px;
+  color: rgba(0, 0, 0, 1);
+  width: 660px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text16 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text17 {
+  color: rgba(255, 4, 4, 1);
+}
+.page-season201-challenger111 {
+  top: 743px;
+  right: -1px;
+  width: 198px;
+  height: 224px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text23 {
+  top: 1070px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  width: 803px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text24 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text25 {
+  color: rgba(255, 0, 0, 1);
+}
+.page-text26 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text27 {
+  color: rgba(255, 0, 0, 1);
+}
+.page-text28 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text29 {
+  color: rgba(255, 0, 0, 1);
+}
+.page-image164848097718011 {
+  top: 1063px;
+  left: 938px;
+  width: 458px;
+  height: 654px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text36 {
+  top: 1604px;
+  left: 870px;
+  color: rgba(225, 227, 120, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 158px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Mr Dafoe;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-images11 {
+  top: 1573px;
+  left: 19px;
+  width: 208px;
+  height: 235px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text38 {
+  top: 2567px;
+  left: 205px;
+  color: rgba(0, 0, 0, 1);
+  width: 1017px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text39 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text40 {
+  color: rgba(255, 16, 16, 1);
+}
+.page-images221 {
+  top: 2976px;
+  left: 19px;
+  width: 250px;
+  height: 183px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-bibi2 {
+  top: 1895px;
+  left: 167px;
+  width: 1094px;
+  height: 615px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 43px;
+}
+.page-text42 {
+  top: 2355px;
+  left: 1121px;
+  color: rgba(225, 227, 120, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 158px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Mr Dafoe;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-line-stroke {
+  top: 3207px;
+  left: 0px;
+  width: 1440px;
+  height: 10px;
+  position: absolute;
+}
+.page-image11 {
+  top: 3246px;
+  left: 44px;
+  width: 116px;
+  height: 118px;
+  position: absolute;
+}
+.page-image12 {
+  top: 3238px;
+  left: 160px;
+  width: 135px;
+  height: 134px;
+  position: absolute;
+}
+.page-image13 {
+  top: 3249px;
+  left: 295px;
+  width: 113px;
+  height: 113px;
+  position: absolute;
+}
+.page-aboutme1 {
+  width: 100%;
+  height: 3383px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(47, 208, 150, 1);
+}
+.page-group32button1 {
+  top: 88px;
+  left: 105px;
+  width: 93.93572998046875px;
+  height: 79.93572998046875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.page-polygon11 {
+  left: -18px;
+  width: 78px;
+  bottom: -14px;
+  height: 78px;
+  position: absolute;
+}
+.page-polygon21 {
+  left: -2px;
+  width: 78px;
+  bottom: -14px;
+  height: 78px;
+  position: absolute;
+}
+.page-text44 {
+  color: rgba(0, 0, 0, 1);
+  right: 54px;
+  width: 728px;
+  bottom: 17px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: right;
+  font-family: Gotu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text55 {
+  top: 36px;
+  left: 210px;
+  color: rgba(71, 19, 95, 1);
+  width: 1096px;
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gotu;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.page-image201910244111 {
+  top: 280px;
+  left: 52px;
+  width: 426px;
+  height: 568px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text57 {
+  top: 737px;
+  left: 283px;
+  color: rgba(225, 227, 120, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 158px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Mr Dafoe;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-rectangle321 {
+  top: 316px;
+  left: 516px;
+  width: 880px;
+  height: 495px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 5px;
+}
+.page-rectangle331 {
+  top: 1063px;
+  left: 36px;
+  width: 881px;
+  height: 642px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 5px;
+}
+.page-rectangle341 {
+  top: 2539px;
+  left: 123px;
+  width: 1193px;
+  height: 568px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 5px;
+}
+.page-text59 {
+  top: 341px;
+  left: 593px;
+  color: rgba(0, 0, 0, 1);
+  width: 660px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text60 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text61 {
+  color: rgba(255, 4, 4, 1);
+}
+.page-season201-challenger1111 {
+  top: 703px;
+  right: 0px;
+  width: 234px;
+  height: 262px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text67 {
+  top: 1070px;
+  left: 90px;
+  color: rgba(0, 0, 0, 1);
+  width: 803px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text68 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text69 {
+  color: rgba(255, 0, 0, 1);
+}
+.page-text70 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text71 {
+  color: rgba(255, 0, 0, 1);
+}
+.page-text72 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text73 {
+  color: rgba(255, 0, 0, 1);
+}
+.page-image1648480977180111 {
+  top: 1063px;
+  left: 938px;
+  width: 458px;
+  height: 654px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text80 {
+  top: 1604px;
+  left: 870px;
+  color: rgba(225, 227, 120, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 158px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Mr Dafoe;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-images111 {
+  top: 1573px;
+  left: 19px;
+  width: 208px;
+  height: 235px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-text82 {
+  top: 2567px;
+  left: 205px;
+  color: rgba(0, 0, 0, 1);
+  width: 1017px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Arya;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-text83 {
+  color: rgba(0, 0, 0, 1);
+}
+.page-text84 {
+  color: rgba(255, 16, 16, 1);
+}
+.page-images2211 {
+  top: 2976px;
+  left: 19px;
+  width: 250px;
+  height: 183px;
+  position: absolute;
+  border-color: transparent;
+}
+.page-bibi21 {
+  top: 1895px;
+  left: 167px;
+  width: 1094px;
+  height: 615px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 43px;
+}
+.page-text86 {
+  top: 2355px;
+  left: 1121px;
+  color: rgba(225, 227, 120, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 158px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Mr Dafoe;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.page-line-stroke1 {
+  top: 3207px;
+  left: 0px;
+  width: 1440px;
+  height: 10px;
+  position: absolute;
+}
+.page-image11button {
+  top: 3246px;
+  left: 44px;
+  width: 116px;
+  height: 118px;
+  position: absolute;
+}
+.page-image12button {
+  top: 3238px;
+  left: 160px;
+  width: 135px;
+  height: 134px;
+  position: absolute;
+}
+.page-image13button {
+  top: 3249px;
+  left: 295px;
+  width: 113px;
+  height: 113px;
+  position: absolute;
+}
+
+:root {
+  --dl-color-gray-500: #595959;
+  --dl-color-gray-700: #999999;
+  --dl-color-gray-900: #D9D9D9;
+  --dl-size-size-large: 144px;
+  --dl-size-size-small: 48px;
+  --dl-color-danger-300: #A22020;
+  --dl-color-danger-500: #BF2626;
+  --dl-color-danger-700: #E14747;
+  --dl-color-gray-black: #000000;
+  --dl-color-gray-white: #FFFFFF;
+  --dl-size-size-medium: 96px;
+  --dl-size-size-xlarge: 192px;
+  --dl-size-size-xsmall: 16px;
+  --dl-space-space-unit: 16px;
+  --dl-color-primary-100: #003EB3;
+  --dl-color-primary-300: #0074F0;
+  --dl-color-primary-500: #14A9FF;
+  --dl-color-primary-700: #85DCFF;
+  --dl-color-success-300: #199033;
+  --dl-color-success-500: #32A94C;
+  --dl-color-success-700: #4CC366;
+  --dl-size-size-xxlarge: 288px;
+  --dl-size-size-maxwidth: 1400px;
+  --dl-radius-radius-round: 50%;
+  --dl-space-space-halfunit: 8px;
+  --dl-space-space-sixunits: 96px;
+  --dl-space-space-twounits: 32px;
+  --dl-radius-radius-radius2: 2px;
+  --dl-radius-radius-radius4: 4px;
+  --dl-radius-radius-radius8: 8px;
+  --dl-space-space-fiveunits: 80px;
+  --dl-space-space-fourunits: 64px;
+  --dl-space-space-threeunits: 48px;
+  --dl-space-space-oneandhalfunits: 24px;
+}
+.button {
+  color: var(--dl-color-gray-black);
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.input {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem 1rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.textarea {
+  color: var(--dl-color-gray-black);
+  cursor: auto;
+  padding: 0.5rem;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-gray-white);
+}
+.list {
+  width: 100%;
+  margin: 1em 0px 1em 0px;
+  display: block;
+  padding: 0px 0px 0px 1.5rem;
+  list-style-type: none;
+  list-style-position: outside;
+}
+.list-item {
+  display: list-item;
+}
+.teleport-show {
+  display: flex !important;
+  transform: none !important;
+}
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+.Heading {
+  font-size: 32px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}

@@ -1,0 +1,235 @@
+body {
+    background-color: #E8B78E;
+    font-family: "Gotu", sans-serif;
+}
+
+/* COLOR STAR */
+#W50 {
+    color: #471460;
+}
+
+#W75 {
+    color: #FFFFFF;
+}
+
+#W100 {
+    color: #000000;
+}
+
+#P2000 {
+    color: #E8B78E;
+}
+
+#P2025 {
+    color: #30D096;
+}
+
+#P2050 {
+    color: #80528B;
+}
+
+#P2075 {
+    color: #92A1AC;
+}
+
+#P2100 {
+    color: #29342E;
+}
+
+#P2125 {
+    color: #322E25;
+}
+
+#P2150 {
+    color: #016E7D;
+}
+
+#B2500 {
+    color: #D9D9D9;
+}
+
+#B2525 {
+    color: #989EDA;
+}
+
+#W125 {
+    color: #FB0000;
+}
+
+#W150 {
+    color: #9B691F;
+}
+
+#W175 {
+    color: #E1E378;
+}
+
+mark {
+    color: #FB0000;
+}
+
+/* COLOR END */
+
+
+/* DIV BOX Color Start */
+#BoxCategory_1 {
+    background-color: #00f583;
+}
+
+#BoxCategory_2 {
+    background-color: #30D096;
+}
+
+#BoxCategory_3 {
+    background-color: #f5008b;
+}
+
+#BoxCategory_4 {
+    background-color: #e9f500;
+}
+
+#BoxCategory_5 {
+    background-color: #8300f5;
+}
+
+/* DIV BOX Color End */
+
+/* Typograhpy Start */
+h1 {
+    position: absolute;
+    width: 985px;
+    height: 315px;
+    left: 403px;
+    top: 245px;
+
+    font-family: 'Arya';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #000000;
+
+
+
+}
+
+h2 {
+    position: absolute;
+    width: 284px;
+    height: 208px;
+    left: 385px;
+    top: 757px;
+
+    font-family: 'Arya';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 50px;
+    /* or 139% */
+
+    text-align: center;
+
+    color: #000000;
+
+}
+
+h3 {
+    position: absolute;
+    width: 985px;
+    height: 315px;
+    left: 403px;
+    top: 245px;
+
+    font-family: 'Gotu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #000000;
+}
+
+h4 {
+    position: absolute;
+    width: 833px;
+    height: 171px;
+    left: 184px;
+    top: 68px;
+
+    font-family: 'Gotu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 128px;
+    line-height: 212px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+
+    color: #471460;
+
+    border: 0px solid #F2F2ED;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+h5 {
+    position: absolute;
+    width: 663px;
+    height: 394px;
+    left: 507px;
+    top: 335px;
+
+    font-family: 'Arya';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 72px;
+    text-align: center;
+
+    color: #000000;
+}
+
+h6 {
+    position: absolute;
+    width: 181px;
+    height: 199px;
+    left: 352px;
+    top: 644px;
+
+    font-family: 'Mr Dafoe';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 156px;
+    line-height: 218px;
+
+    color: #E1E378;
+
+    text-shadow: 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Typograhpy End */
+
+/* Button Start */
+.bttn_style {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 267.88px;
+    height: 68.56px;
+    left: 120px;
+    top: 102px;
+
+    background: #D9D9D9;
+    border-width: 0px 2px;
+    border-style: solid;
+    border-color: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+
+}
+
+/* Button End */
